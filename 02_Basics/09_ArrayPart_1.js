@@ -1,10 +1,11 @@
 //Array
-// const myArr = [0, 1, 2, 3, 4, 5, true, "Sahil"] //can have different type of element too
+const myArr1 = [0, 1, 2, 3, 4, 5, true, "Sahil"] //can have different type of element too
 // array is resizable too
 // read the documents 
 
 const myArr = [0, 1, 2, 3, 4, 5]
-// console.log(myArr[1]);
+console.log(myArr[1]);
+console.log(myArr1[1]);
 
 // const myHeors = ["shaktiman", "naagraj"]
 // const myArr2 = new Array(1, 2, 3, 4)
