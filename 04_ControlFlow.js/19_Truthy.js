@@ -6,13 +6,13 @@ if (userEmail) {
     console.log("Don't have user email");
 }
 
-// falsy values-these values are always false
+// falsy values-these values are always False..
 // false, 0, -0, BigInt 0n, "", null, undefined, NaN
 
-//truthy values
+//truthy values-these values are always True..
 // "0", 'false', " ", [], {}, function(){}
 
-// if (userEmail.length === 0) {
+// if (userEmail.length === 0) {s
 //     console.log("Array is empty");
 // }
 
